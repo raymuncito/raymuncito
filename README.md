@@ -6,6 +6,9 @@
 
 i work in lua (with [psych engine](https://github.com/ShadowMario/FNF-PsychEngine) and [roblox](https://create.roblox.com/) apis) and i know basic knowledge of haxe. sometimes ill make little scripts in batch and stuffs. if we're trying to list everything, then; lua, batch, scratch, basic js, and basic haxe.
 
+
+i also play games in my free time, mostly [roblox](https://www.roblox.com), [friday night funkin](https://www.newgrounds.com/portal/view/770371) and [geometry dash](https://geometrydash.com/).
+
 ## vs cowboy <img src="https://github.com/raymuncito/raymuncito/blob/main/assets/cowboy.png" height="40" alt="cowboy gif"/>
 
 vs cowboy is a short fnf mod that i made around early 2026. it was the 1 year anniversary to my previous and very outdated vs scrambled eggs. vs cowboy runs on [psych engine 1.0.4](https://github.com/ShadowMario/FNF-PsychEngine/releases/tag/1.0.4) and features 3 songs! you can find out more on the **[gamebanana page](https://gamebanana.com/mods/645874)**.
