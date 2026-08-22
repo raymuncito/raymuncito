@@ -1,1 +1,1 @@
-<img src="images/ray.jpg" width="300" alt="ray"/>
+<img src="https://github.com/raymuncito/raymuncito/blob/main/assets/ray.jpg" width="300" alt="ray"/>
