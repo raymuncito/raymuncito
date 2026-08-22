@@ -1,1 +1,1 @@
-<img src="images/my-banner.png" width="300" alt="ray" />
+<img src="images/ray.jpg" width="300" alt="ray"/>
