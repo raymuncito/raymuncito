@@ -10,6 +10,6 @@ i work in lua (with [psych engine](https://github.com/ShadowMario/FNF-PsychEngin
 
 vs cowboy is a short fnf mod that i made around early 2026. it was the 1 year anniversary to my previous and very outdated vs scrambled eggs. vs cowboy runs on [psych engine 1.0.4](https://github.com/ShadowMario/FNF-PsychEngine/releases/tag/1.0.4) and features 3 songs! you can find out more on the [gamebanana page](https://gamebanana.com/mods/645874).
 
-<video src="assets/COWBOY.mp4" width="100%" controls>
+<video src="https://github.com/user-attachments/assets/e3e0412c-6817-4418-9de1-afde2b26b5dd" width="100%" controls>
   Your browser does not support the video tag.
 </video>
