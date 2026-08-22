@@ -1,1 +1,1 @@
-<img src="https://github.com/raymuncito/raymuncito/blob/main/assets/ray.png" width="225" alt="picture of ray"/><img src="https://github.com/raymuncito/raymuncito/blob/main/assets/name.png" height="125" alt="raymuncito"/>
+<img src="https://github.com/raymuncito/raymuncito/blob/main/assets/ray.png" width="250" alt="picture of ray"/><img src="https://github.com/raymuncito/raymuncito/blob/main/assets/name.png" height="125" alt="raymuncito"/>
