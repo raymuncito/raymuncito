@@ -12,7 +12,6 @@ i also play games in my free time, mostly [roblox](https://www.roblox.com), [fri
 <video src="https://github.com/user-attachments/assets/9ebaee54-ab4c-4a29-b0c6-0a6bf0154f2c" width="100%" controls>
   Your browser does not support the video tag.
 </video>
-[no, your internet doesn't suck, github needs the videos to be less than 10MB. heres another video.](https://www.youtube.com/watch?v=FBMS1hG7oOE)
 
 ## vs cowboy <img src="https://github.com/raymuncito/raymuncito/blob/main/assets/cowboy.png" height="40" alt="cowboy gif"/>
 
@@ -21,3 +20,8 @@ vs cowboy is a short fnf mod that i made around early 2026. it was the 1 year an
 <video src="https://github.com/user-attachments/assets/e3e0412c-6817-4418-9de1-afde2b26b5dd" width="100%" controls>
   Your browser does not support the video tag.
 </video>
+
+## can we work on something
+
+**No**
+maybe in the future i dont really know
