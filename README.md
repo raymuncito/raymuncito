@@ -1,1 +1,1 @@
-<img src="https://github.com/raymuncito/raymuncito/blob/main/assets/name.png" height="200" alt="raymuncito"/>
+<img src="https://github.com/raymuncito/raymuncito/blob/main/assets/name.png" height="250" alt="raymuncito"/>
